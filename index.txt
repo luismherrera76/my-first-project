@@ -8,4 +8,4 @@ Edited from GitHub.
 
 This is from test-feature branch.
 
-Change made locally for bit-branch-practice.
+New GitHub change, not in bit-branch-practice.
